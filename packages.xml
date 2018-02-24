@@ -1,0 +1,17 @@
+<application>
+  <component name="PyPackageService">
+    <option name="sdkToUsersite">
+      <map>
+        <entry key="C:\Program Files (x86)\Python2713\python.exe" value="true" />
+        <entry key="C:\Program Files (x86)\Python35-32\python.exe" value="true" />
+        <entry key="C:\Program Files (x86)\Python36\python.exe" value="true" />
+      </map>
+    </option>
+    <option name="additionalRepositories">
+      <list>
+        <option value="http://pypi.python.org/" />
+      </list>
+    </option>
+    <option name="LAST_TIME_CHECKED" value="1519515061918" />
+  </component>
+</application>
