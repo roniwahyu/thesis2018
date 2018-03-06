@@ -19,4 +19,5 @@ with file("afterfilter.csv", "r") as rfh, file("afterstemming.csv", "w") as wfh:
         stemdoc=stemmer.stem(origdoc)
         tulis.writerow([katid, kategori,dispid, disposisi,origdoc, stemdoc])
         keluaran.append(stemdoc)
+    
     print(keluaran)
