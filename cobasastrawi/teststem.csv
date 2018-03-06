@@ -1,0 +1,103 @@
+row ID,Term,Document,Orig Document,Term as String
+Row1,terima[],terima blsm tdk dpt bsm,Terima BLSM tp tdk dpt BSM - kenapa,terima
+Row2,blsm[],terima blsm tdk dpt bsm,Terima BLSM tp tdk dpt BSM - kenapa,blsm
+Row3,tdk[],terima blsm tdk dpt bsm,Terima BLSM tp tdk dpt BSM - kenapa,tdk
+Row4,dpt[],terima blsm tdk dpt bsm,Terima BLSM tp tdk dpt BSM - kenapa,dpt
+Row5,bsm[],terima blsm tdk dpt bsm,Terima BLSM tp tdk dpt BSM - kenapa,bsm
+Row6,kps[],terima blsm tdk dpt bsm,Terima BLSM tp tdk dpt BSM - kenapa,kps
+Row8,menerima[],terima blsm tdk dpt bsm,Terima BLSM tp tdk dpt BSM - kenapa,menerima
+Row9,dana[],terima blsm tdk dpt bsm,Terima BLSM tp tdk dpt BSM - kenapa,dana
+Row10,anak[],terima blsm tdk dpt bsm,Terima BLSM tp tdk dpt BSM - kenapa,anak
+Row11,keluhan[],keluhan jasa pengiriman barang pos indonesia,Keluhan Jasa Pengiriman Barang PT Pos Indonesia,keluhan
+Row13,pengiriman[],keluhan jasa pengiriman barang pos indonesia,Keluhan Jasa Pengiriman Barang PT Pos Indonesia,pengiriman
+Row14,barang[],keluhan jasa pengiriman barang pos indonesia,Keluhan Jasa Pengiriman Barang PT Pos Indonesia,barang
+Row15,pos[],keluhan jasa pengiriman barang pos indonesia,Keluhan Jasa Pengiriman Barang PT Pos Indonesia,pos
+Row16,indonesia[],keluhan jasa pengiriman barang pos indonesia,Keluhan Jasa Pengiriman Barang PT Pos Indonesia,indonesia
+Row17,yth[],keluhan jasa pengiriman barang pos indonesia,Keluhan Jasa Pengiriman Barang PT Pos Indonesia,yth
+Row19,kiriman[],keluhan jasa pengiriman barang pos indonesia,Keluhan Jasa Pengiriman Barang PT Pos Indonesia,kiriman
+Row22,kembali[],keluhan jasa pengiriman barang pos indonesia,Keluhan Jasa Pengiriman Barang PT Pos Indonesia,kembali
+Row25,alamat[],keluhan jasa pengiriman barang pos indonesia,Keluhan Jasa Pengiriman Barang PT Pos Indonesia,alamat
+Row27,pihak[],keluhan jasa pengiriman barang pos indonesia,Keluhan Jasa Pengiriman Barang PT Pos Indonesia,pihak
+Row30,raskin[],raskin bulan desember keluar,Raskin Bulan Desember 2013 Tidak Keluar,raskin
+Row31,bulan[],raskin bulan desember keluar,Raskin Bulan Desember 2013 Tidak Keluar,bulan
+Row32,desember[],raskin bulan desember keluar,Raskin Bulan Desember 2013 Tidak Keluar,desember
+Row33,keluar[],raskin bulan desember keluar,Raskin Bulan Desember 2013 Tidak Keluar,keluar
+Row35,tanya[],raskin bulan desember keluar,Raskin Bulan Desember 2013 Tidak Keluar,tanya
+Row38,tahun[],raskin bulan desember keluar,Raskin Bulan Desember 2013 Tidak Keluar,tahun
+Row39,bsm[],bsm cair,Kapan BSM saya cair,bsm
+Row40,cair[],bsm cair,Kapan BSM saya cair,cair
+Row41,kps[],bsm cair,Kapan BSM saya cair,kps
+Row47,penerima[],penerima kps terima raskin,Penerima KPS Tidak Terima Raskin,penerima
+Row48,kps[],penerima kps terima raskin,Penerima KPS Tidak Terima Raskin,kps
+Row49,terima[],penerima kps terima raskin,Penerima KPS Tidak Terima Raskin,terima
+Row50,raskin[],penerima kps terima raskin,Penerima KPS Tidak Terima Raskin,raskin
+Row52,rumah[],penerima kps terima raskin,Penerima KPS Tidak Terima Raskin,rumah
+Row53,tangga[],penerima kps terima raskin,Penerima KPS Tidak Terima Raskin,tangga
+Row55,menerima[],penerima kps terima raskin,Penerima KPS Tidak Terima Raskin,menerima
+Row56,beras[],penerima kps terima raskin,Penerima KPS Tidak Terima Raskin,beras
+Row57,syarat[],syarat dpt bsm,Syarat dpt BSM,syarat
+Row58,dpt[],syarat dpt bsm,Syarat dpt BSM,dpt
+Row59,bsm[],syarat dpt bsm,Syarat dpt BSM,bsm
+Row61,terima[],terima bsm,Belum terima BSM - kenapa,terima
+Row62,bsm[],terima bsm,Belum terima BSM - kenapa,bsm
+Row63,kps[],terima bsm,Belum terima BSM - kenapa,kps
+Row68,punya[],terima bsm,Belum terima BSM - kenapa,punya
+Row69,kartu[],terima bsm,Belum terima BSM - kenapa,kartu
+Row70,dana[],terima bsm,Belum terima BSM - kenapa,dana
+Row72,pihak[],terima bsm,Belum terima BSM - kenapa,pihak
+Row73,sekolah[],terima bsm,Belum terima BSM - kenapa,sekolah
+Row75,bsm[],bsm cair,Kapan BSM cair,bsm
+Row76,cair[],bsm cair,Kapan BSM cair,cair
+Row77,kps[],bsm cair,Kapan BSM cair,kps
+Row79,anak[],bsm cair,Kapan BSM cair,anak
+Row80,penerima[],bsm cair,Kapan BSM cair,penerima
+Row81,info[],bsm cair,Kapan BSM cair,info
+Row82,pihak[],bsm cair,Kapan BSM cair,pihak
+Row83,sekolah[],bsm cair,Kapan BSM cair,sekolah
+Row84,raskin[],raskin karung,Raskin tidak sampai 1 karung,raskin
+Row86,kps[],raskin karung,Raskin tidak sampai 1 karung,kps
+Row92,baik[],raskin karung,Raskin tidak sampai 1 karung,baik
+Row99,atas[],raskin karung,Raskin tidak sampai 1 karung,atas
+Row104,sya[],raskin karung,Raskin tidak sampai 1 karung,sya
+Row114,bsm[],bsm cair,kapan bsm saya cair,bsm
+Row115,cair[],bsm cair,kapan bsm saya cair,cair
+Row116,kps[],bsm cair,kapan bsm saya cair,kps
+Row119,nama[],bsm cair,kapan bsm saya cair,nama
+Row124,kartu[],bsm cair,kapan bsm saya cair,kartu
+Row126,atas[],bsm cair,kapan bsm saya cair,atas
+Row129,mohon[],bsm cair,kapan bsm saya cair,mohon
+Row130,keterangan[],bsm cair,kapan bsm saya cair,keterangan
+Row131,orang[],bsm cair,kapan bsm saya cair,orang
+Row135,raskin[],raskin liter,Raskin hanya 5 liter,raskin
+Row137,kps[],raskin liter,Raskin hanya 5 liter,kps
+Row139,rumah[],raskin liter,Raskin hanya 5 liter,rumah
+Row140,tangga[],raskin liter,Raskin hanya 5 liter,tangga
+Row141,desa[],raskin liter,Raskin hanya 5 liter,desa
+Row142,menerima[],raskin liter,Raskin hanya 5 liter,menerima
+Row143,harga[],raskin liter,Raskin hanya 5 liter,harga
+Row145,penerima[],raskin liter,Raskin hanya 5 liter,penerima
+Row146,raskin[],raskin diterima sesuai jumlahnya harga mahal,Raskin diterima Tidak Sesuai Jumlahnya dengan harga lebih mahal,raskin
+Row147,diterima[],raskin diterima sesuai jumlahnya harga mahal,Raskin diterima Tidak Sesuai Jumlahnya dengan harga lebih mahal,diterima
+Row148,sesuai[],raskin diterima sesuai jumlahnya harga mahal,Raskin diterima Tidak Sesuai Jumlahnya dengan harga lebih mahal,sesuai
+Row150,harga[],raskin diterima sesuai jumlahnya harga mahal,Raskin diterima Tidak Sesuai Jumlahnya dengan harga lebih mahal,harga
+Row152,bulan[],raskin diterima sesuai jumlahnya harga mahal,Raskin diterima Tidak Sesuai Jumlahnya dengan harga lebih mahal,bulan
+Row153,bayar[],raskin diterima sesuai jumlahnya harga mahal,Raskin diterima Tidak Sesuai Jumlahnya dengan harga lebih mahal,bayar
+Row155,beras[],raskin diterima sesuai jumlahnya harga mahal,Raskin diterima Tidak Sesuai Jumlahnya dengan harga lebih mahal,beras
+Row158,cair[],cair,Kapan cair,cair
+Row159,penerima[],cair,Kapan cair,penerima
+Row160,kps[],cair,Kapan cair,kps
+Row161,anak[],cair,Kapan cair,anak
+Row162,menerima[],cair,Kapan cair,menerima
+Row163,kartu[],cair,Kapan cair,kartu
+Row166,kelas[],cair,Kapan cair,kelas
+Row173,anak[],anak blm sekolah -apa dpt bsm,Anak blm sekolah -apa bs dpt bsm,anak
+Row174,blm[],anak blm sekolah -apa dpt bsm,Anak blm sekolah -apa bs dpt bsm,blm
+Row175,sekolah[],anak blm sekolah -apa dpt bsm,Anak blm sekolah -apa bs dpt bsm,sekolah
+Row177,dpt[],anak blm sekolah -apa dpt bsm,Anak blm sekolah -apa bs dpt bsm,dpt
+Row178,bsm[],anak blm sekolah -apa dpt bsm,Anak blm sekolah -apa bs dpt bsm,bsm
+Row179,kps[],anak blm sekolah -apa dpt bsm,Anak blm sekolah -apa bs dpt bsm,kps
+Row181,program[],anak blm sekolah -apa dpt bsm,Anak blm sekolah -apa bs dpt bsm,program
+Row183,blsm[],anak blm sekolah -apa dpt bsm,Anak blm sekolah -apa bs dpt bsm,blsm
+Row184,untuk[],anak blm sekolah -apa dpt bsm,Anak blm sekolah -apa bs dpt bsm,untuk
+Row186,kantor[],anak blm sekolah -apa dpt bsm,Anak blm sekolah -apa bs dpt bsm,kantor
+Row187,pos[],anak blm sekolah -apa dpt bsm,Anak blm sekolah -apa bs dpt bsm,pos
